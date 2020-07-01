@@ -1,4 +1,4 @@
-# B_field_line_tracer_analytic  A 00 A
+# B_field_line_tracer_analytic  C 00 C
 
 import sys
 import numpy as np
