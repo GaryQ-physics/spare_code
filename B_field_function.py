@@ -1,4 +1,5 @@
-# B_field_function BBB
+
+# B_field_function CONFLICTRESOLVED
 
 #    ../../../python2 kameleon_test.py ~/magnetosphere/kameleon-plus-compiled/3d__var_3_e20031120-070000-000.out.cdf bx 5 0 0
 
